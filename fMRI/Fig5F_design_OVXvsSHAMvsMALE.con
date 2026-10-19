@@ -1,0 +1,13 @@
+/NumWaves 21
+/NumPoints 5
+/ContrastName1 Slope_F_gt_OVX
+/ContrastName2 Slope_F_gt_M
+/ContrastName3 Slope_OVX_gt_M
+/ContrastName4 Edad_Global_Pos
+/ContrastName5 Edad_Global_Neg
+/Matrix
+0 0 0  0  1 -1  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 -1  1  0  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0	
+0 0 0 -1  0  1  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0  1  1  1  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  
+0 0 0 -1 -1 -1  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
